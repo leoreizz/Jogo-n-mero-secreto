@@ -3,7 +3,7 @@
   //  let paragrafo = document.querySelector("P")
   //  paragrafo.innerHTML = "Escolha um numero"
 let listaNumerosSorteados = []
-let numeroLimite = 100;
+let numeroLimite = 50;
 let numeroSecreto = GerarNumeroAleatorio();
 let tentativas = 1;
 
